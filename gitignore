@@ -1,0 +1,11 @@
+/env
+env
+smoking_driking_dataset_Ver01.csv
+/buildings
+/output_images
+/output_contour_images
+/venv
+.venv/
+pca_transformed_data.csv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
